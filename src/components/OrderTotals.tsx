@@ -33,7 +33,7 @@ export default function OrderTotals({order, tip, placeOrder}: OrderTotalProps) {
         disabled={totalAmount === 0}
         onClick={placeOrder}
         >
-            Guardar Orden
+            Guardar Comanda
         </button>
     </>
     

@@ -49,7 +49,7 @@ function App() {
               />
             </>
           ) : (
-            <p className="text-center">La orden está vacia</p>
+            <p className="text-center">La comanda está vacia</p>
           )}
         </div>
       </main>
